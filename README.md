@@ -4,6 +4,7 @@
 #### fourth
 ##### fifth
 ###### sixth
+![truck with antennas](https://cdn-bio.qrz.com/f/w0zf/Red_Rover_21.JPG?p=bd71fc1fc2432687d314e399ca16f7f1)
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
